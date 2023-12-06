@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ansar Ali GBA</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anaraligba&label=Profile%20views&color=0e75b6&style=flat" alt="anaraligba" /> </p>
 <img align="right" alt="coding" with="400" src="![image](https://github.com/Ansaraligba12/Ansaraligba12/assets/151914639/698e4d90-573c-4511-9018-0870b24b161e)
 ">
